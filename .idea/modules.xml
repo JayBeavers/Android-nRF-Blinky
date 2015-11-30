@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-nRF-Blinky.iml" filepath="$PROJECT_DIR$/Android-nRF-Blinky.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nRFBlinky.iml" filepath="$PROJECT_DIR$/nRFBlinky.iml" />
     </modules>
   </component>
 </project>
